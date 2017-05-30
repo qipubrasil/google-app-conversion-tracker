@@ -44,7 +44,7 @@
 
     <config-file target="AndroidManifest.xml" parent="/manifest/application">
       <receiver android:name="com.google.ads.conversiontracking.InstallReceiver"
-        android:exported="true">
+          android:exported="true">
         <intent-filter>
           <action android:name="com.android.vending.INSTALL_REFERRER" />
         </intent-filter>
@@ -52,7 +52,7 @@
     </config-file>
 
     <source-file src="src/android/GoogleAppTracking.java" target-dir="src/com/myhealthteams/plugins" />
-    <source-file src="lib/android/GoogleConversionTrackingSdk-2.2.2.jar" target-dir="libs" />
+    <source-file src="lib/android/GoogleConversionTrackingSdk-2.2.4.jar" target-dir="libs" />
   </platform>
 
 </plugin>

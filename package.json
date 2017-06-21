@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Covve/google-app-conversion-tracker.git"
+    "url": "git+https://github.com/qipubrasil/google-app-conversion-tracker.git"
   },
   "keywords": [
     "ecosystem:cordova",

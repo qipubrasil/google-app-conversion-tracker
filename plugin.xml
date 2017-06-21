@@ -3,7 +3,7 @@
   xmlns:android="http://schemas.android.com/apk/res/android"
   id="cordova-plugin-google-conversion-tracker" version="1.0.1">
 
-  <name>Google Conversion Tracker</name>
+  <name>Google Conversion Tracker- Qipu Fork</name>
   <description>Cordova Plugin for Google App Install Conversion Tracking</description>
   <license>Apache 2.0</license>
   <keywords>google,install,conversion,tracking</keywords>
